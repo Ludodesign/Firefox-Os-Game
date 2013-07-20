@@ -1,0 +1,21 @@
+﻿{
+	"name": "iHitch - Firefox Competition",
+	"description": "Window test",
+	"version": "1.0",
+	"launch_path": "/index.html",
+	"orientation": ["portrait", "landscape"],
+	"icons": {
+		"16": "/icon-16.png",
+		"32": "/icon-32.png",
+		"128": "/icon-128.png"
+	},
+	"developer": {
+		"name": "Thiago Attianesi",
+		"url": "www.designludico.com"
+	},
+	"default_locale": "en",
+	"permissions": {
+	},
+	"fullscreen": "true",
+	"appcache_path": "/offline.appcache"
+}
